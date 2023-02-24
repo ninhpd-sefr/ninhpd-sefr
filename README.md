@@ -44,13 +44,13 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/ninhdangpham/" target="blank">
+  <a href="https://www.facebook.com/ninhdangpham/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ninhpd-sefr-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/pham-ninh-3924b8245/" target="blank">
+  <a href="https://www.linkedin.com/in/pham-ninh-3924b8245/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="ninhpdsefr-linkedin" />
   </a>
-  <a href="https://www.instagram.com/ninhhere/" target="blank">
+  <a href="https://www.instagram.com/ninhhere/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ninhpd-sefr-instagram" />
   </a>
   <a href="mailto:phamdangninh171102@gmail.com" target="top">
